@@ -2,7 +2,6 @@
   "name": "relay-graphql",
   "version": "1.0.0",
   "source": "src/index.html",
-  "main": "src/index.html",
   "license": "MIT",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
